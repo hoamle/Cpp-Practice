@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "null",
+            "includePath": [
+                "${workspaceRoot}",
+                "C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++"
+            ],
+            "defines": [],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                "${workspaceRoot}",
+                "C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++"
+                ]
+            }
+        }
+    ]
+}
